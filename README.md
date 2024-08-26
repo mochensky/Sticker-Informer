@@ -1,12 +1,11 @@
 ## Sticker-Informer: A Bee Swarm Simulator Tool
 
 ### Overview
-Sticker-Informer is a Python-based automation tool designed to enhance gameplay in Roblox's Bee Swarm Simulator. It functions as an add-on for the Natro Macro program, leveraging image recognition powered by neural networks to detect specific in-game elements. Once an image is identified, the program sends a notification to a designated Discord webhook, alerting the user to the detected event.
+Sticker-Informer is a Python-based automation tool designed to enhance gameplay in Roblox's Bee Swarm Simulator. It functions as an add-on for the Natro Macro, leveraging image recognition powered by neural networks to detect specific in-game elements. Once an image is identified, the program sends a notification to a designated Discord webhook, alerting the user to the detected event.
 
 ### Functionality
-* **Image Recognition:** Employs neural networks to analyze the Bee Swarm Simulator game window.
-* **Event Detection:** Identifies predefined images or patterns within the game, such as the appearance of specific stickers or items.
-* **Discord Integration:** Sends real-time notifications to a specified Discord webhook, providing users with immediate updates on detected events.
+* **Detect:** Detects receipt of a _sticker_ in Bee Swarm Simulator.
+* **Discord Integration:** Sending a message with information on behalf of Discord Webhook integration.
 
 ### Technical Details
 * **Programming Language:** Python.
@@ -25,7 +24,7 @@ Sticker-Informer is a Python-based automation tool designed to enhance gameplay 
 ### Problems
 * Because a neural network is used for detection, sometimes there may be errors associated with poor detection. For example, when someone uses a Sticker Printer, or when there are similar items on the screen.
 * It is strongly recommended to use this program only while Natro Macro is running.
-* The program is not demanding enough, but still requires a not very weak computer. You don't have to worry about performance if you can afford to play on 3+ graphics in Bee Swarm Simulator.
+* The program is not demanding enough, but still requires a not very weak computer. You don't have to worry about performance if you can afford to play on `3+` graphics in Bee Swarm Simulator.
 
 ### Disclaimer
 * This tool is intended for personal use and entertainment purposes only.
