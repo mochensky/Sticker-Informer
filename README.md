@@ -14,7 +14,7 @@ Sticker-Informer is a Python-based automation tool designed to enhance gameplay 
 ### Installation
 1. Install the latest release from [github](https://github.com/mochensky/Sticker-Informer/releases/latest).
 2. Create a new folder and extract the contents of the downloaded archive to the created folder.
-3. Double-click on the file `Sticker-Informer.exe `in order to run the program. (For convenience, you can create a desktop shortcut that refers to this exe file)
+3. Double-click on the file `Sticker-Informer.exe` in order to run the program. (For convenience, you can create a desktop shortcut that refers to this exe file)
 
 ### Usage
 1. After starting, wait for some time for the program to fully load.
