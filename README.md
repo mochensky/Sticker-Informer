@@ -18,7 +18,7 @@ Sticker-Informer is a Python-based automation tool designed to enhance gameplay 
 
 ### Usage
 1. After starting, wait for some time for the program to fully load.
-2. Enter all the necessary information that is required of you (the url of the webhook, the name of the game process, the name of the window, the check delay).
+2. Enter all the necessary information that is required of you (the url of the webhook, the check delay).
 3. Now you can turn on Natro Macro, information about which stickers you receive and what will be sent to you from Discord Webhook.
 
 ### Problems
