@@ -1,31 +1,32 @@
-## Sticker-Informer: A Bee Swarm Simulator Tool
+## Sticker-Informer: Bee Swarm Simulator Tool
 
-### Overview
-Sticker-Informer is a Python-based automation tool designed to enhance gameplay in Roblox's Bee Swarm Simulator. It functions as an add-on for the Natro Macro, leveraging image recognition powered by neural networks to detect specific in-game elements. Once an image is identified, the program sends a notification to a designated Discord webhook, alerting the user to the detected event.
+This handy Python tool seamlessly integrates with Natro Macro, using cutting-edge image recognition to identify when you've received a sticker in-game. No more staring at your screen – Sticker-Informer will send a notification straight to your Discord, letting you know exactly which sticker you just scored!
 
-### Functionality
-* **Detect:** Detects receipt of a _sticker_ in Bee Swarm Simulator.
-* **Discord Integration:** Sending a message with information on behalf of Discord Webhook integration.
+**Here's what Sticker-Informer can do for you:**
 
-### Technical Details
-* **Programming Language:** Python.
-* **Platform Compatibility:** Tested on Windows 10 and 11 operating systems.
+* **Spot those Stickers:** Never miss a tool sticker again with our advanced image recognition capabilities.
+* **Discord on Duty:** Get instant notifications about your stickers delivered directly to your Discord server.
 
-### Installation
-1. Install the latest release from [github](https://github.com/mochensky/Sticker-Informer/releases/latest).
-2. Create a new folder and extract the contents of the downloaded archive to the created folder.
-3. Double-click on the file `Sticker-Informer.exe` in order to run the program. (For convenience, you can create a desktop shortcut that refers to this exe file)
+----
 
-### Usage
-1. After starting, wait for some time for the program to fully load.
-2. Enter all the necessary information that is required of you (the url of the webhook, the check delay).
-3. Now you can turn on Natro Macro, information about which stickers you receive and what will be sent to you from Discord Webhook.
+**Getting Started:**
 
-### Problems
-* Because a neural network is used for detection, sometimes there may be errors associated with poor detection. For example, when someone uses a Sticker Printer, or when there are similar items on the screen.
-* It is strongly recommended to use this program only while Natro Macro is running.
-* The program is not demanding enough, but still requires a not very weak computer. You don't have to worry about performance if you can afford to play on `3+` graphics in Bee Swarm Simulator.
+1. **Download:** Head over to our [GitHub](https://github.com/mochensky/Sticker-Informer/releases/latest) page and grab the latest version.
+2. **Extract and Run:** Unzip the downloaded file and double-click on `Sticker-Informer.exe` to launch the program. (Bonus points for creating a desktop shortcut!)
+3. **Configure & Go!** Once the program loads, simply enter your Discord webhook URL and adjust the check delay settings. Now, fire up Natro Macro, and let Sticker-Informer keep you informed about your sticker haul!
 
-### Disclaimer
-* This tool is intended for personal use and entertainment purposes only.
-* Use of automation tools may violate Roblox's terms of service. Please use this tool responsibly and at your own risk.
+
+**Important Notes:**
+
+* **Accuracy Matters:** Since Sticker-Informer uses a neural network, there might be occasional misinterpretations, especially due to in-game elements like the Sticker Printer. 
+* **Natro Macro Match:** This tool works best when running alongside Natro Macro. 
+* **Performance Check:** While not too demanding,  Sticker-Informer might not run smoothly on very weak computers. However, if you can play with `3+` graphics in Bee Swarm Simulator, you're good to go!
+
+**Usage Tips:**
+1. **Font:** Don't use custom fonts in Roblox. This may cause the program to not work at all.
+2. **Usage:** Use Sticker-Informer only with Natro Macro, because otherwise it will work on everything that is possible.
+ 
+**Disclaimer:**
+
+* This tool is designed for personal use and enjoyment only.
+* Remember, using automation tools might violate Roblox's terms of service. Use Sticker-Informer responsibly and at your own risk.
